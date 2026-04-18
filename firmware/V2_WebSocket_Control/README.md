@@ -3,3 +3,6 @@ In Version 2, the communication protocol was upgraded from standard HTTP to WebS
 
 #### 🖥️ V2 Web Interface
 <img src="../../assets/22.jpg" width="400" alt="V2 WebSocket Interface">
+
+
+<img src="../../assets/55.png" width="400" alt="">
