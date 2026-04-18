@@ -59,7 +59,11 @@ Future Roadmap (Version 2.0)
 * **WebSocket Integration:** Upgrade the communication protocol from standard HTTP GET requests to WebSockets. This will eliminate the need for full page reloads, providing real-time, bi-directional, and seamless control with zero latency.
   
 ## 📸 Media
-**The Gripper:**
+**THE GRIPPER:**
 * <img src="assets/photo_5_2026-02-05_01-05-57.jpg" width="350" alt="24V Gripper">
-* **Custom PCB:**
-* <img src="assets/control-circuit 2.png" width="360" alt="PCB 3D Render">
+* **CUSTOM PCB:**
+* <img src="assets/control-circuit 2.png" width="350" alt="PCB 3D Render">
+**THE ARM :**
+* <img src="assets/33.jpg" width="350" alt="THE ARM">
+**THE BOARD:**
+* <img src="assets/44.jpg" width="350" alt="THE BOARD">
