@@ -25,6 +25,8 @@ During the development of this board, I designed two distinct hardware configura
 ### Configuration 1: Relay-Based Switching
 This configuration uses a standard mechanical relay to switch the 24V line. It acts as an electrically operated physical switch.
 
+ <img src="assets/config_1.png" width="400" alt="Relay-Based circuit ">
+
 | Pros ✅ | Cons ❌ |
 |---|---|
 | **Robustness:** Highly tolerant to temporary voltage spikes and overloads. | **Mechanical Wear:** Moving metal contacts have a finite lifespan and will eventually wear out. |
@@ -33,6 +35,8 @@ This configuration uses a standard mechanical relay to switch the 24V line. It a
 
 ### Configuration 2: MOSFET-Based Switching
 This configuration uses an N-Channel MOSFET as a solid-state switch to control the ground path of the 24V gripper.
+
+ <img src="assets/config_2.png" width="400" alt="MOSFET-Based circuit ">
 
 | Pros ✅ | Cons ❌ |
 |---|---|
@@ -55,7 +59,11 @@ Future Roadmap (Version 2.0)
 * **WebSocket Integration:** Upgrade the communication protocol from standard HTTP GET requests to WebSockets. This will eliminate the need for full page reloads, providing real-time, bi-directional, and seamless control with zero latency.
   
 ## 📸 Media
-**The Gripper:**
+**THE GRIPPER:**
 * <img src="assets/photo_5_2026-02-05_01-05-57.jpg" width="350" alt="24V Gripper">
-* **Custom PCB:**
-* <img src="assets/control-circuit 2.png" width="360" alt="PCB 3D Render">
+* **CUSTOM PCB:**
+* <img src="assets/control-circuit 2.png" width="350" alt="PCB 3D Render">
+**THE ARM :**
+* <img src="assets/33.jpg" width="350" alt="THE ARM">
+**THE BOARD:**
+* <img src="assets/44.jpg" width="350" alt="THE BOARD">
