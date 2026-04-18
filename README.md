@@ -25,6 +25,8 @@ During the development of this board, I designed two distinct hardware configura
 ### Configuration 1: Relay-Based Switching
 This configuration uses a standard mechanical relay to switch the 24V line. It acts as an electrically operated physical switch.
 
+ <img src="assets/config_1.png" width="400" alt="Relay-Based circuit ">
+
 | Pros ✅ | Cons ❌ |
 |---|---|
 | **Robustness:** Highly tolerant to temporary voltage spikes and overloads. | **Mechanical Wear:** Moving metal contacts have a finite lifespan and will eventually wear out. |
@@ -33,6 +35,8 @@ This configuration uses a standard mechanical relay to switch the 24V line. It a
 
 ### Configuration 2: MOSFET-Based Switching
 This configuration uses an N-Channel MOSFET as a solid-state switch to control the ground path of the 24V gripper.
+
+ <img src="assets/config_2.png" width="400" alt="MOSFET-Based circuit ">
 
 | Pros ✅ | Cons ❌ |
 |---|---|
