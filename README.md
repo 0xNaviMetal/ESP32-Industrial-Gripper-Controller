@@ -1,5 +1,5 @@
 # ESP32-Industrial-Gripper-Controller
-
+// This project was done by BENBERKAT Ayoub & BOUCETTA Slimane 
 
 **Developed during my internship at CDTA (Centre de Développement des Technologies Avancées).**
 
